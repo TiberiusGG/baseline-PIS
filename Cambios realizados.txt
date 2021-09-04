@@ -1,0 +1,4 @@
+[04/09] - En el roadmap de calidad y verificación, se nombró Postman como herramienta de prueba de endpoints dinamica.
+[04/09] - Se terminó el documento infraestructura pronta para comenzar la construccion.
+[04/09] - Se quito la sección de introduccion en Estrategia y roadmap de gestion de configuración.
+[04/09] - Se agregaron dos partes al documento de Estrategia y roadmap de gestion de la configuración, en una se explica como será el release process de los documentos y en la otra se explica como hará el equipo para estar al tanto de cuando se terminen las tareas y de los deploys
