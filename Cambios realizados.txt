@@ -2,3 +2,5 @@
 [04/09] - Se terminó el documento infraestructura pronta para comenzar la construccion.
 [04/09] - Se quito la sección de introduccion en Estrategia y roadmap de gestion de configuración.
 [04/09] - Se agregaron dos partes al documento de Estrategia y roadmap de gestion de la configuración, en una se explica como será el release process de los documentos y en la otra se explica como hará el equipo para estar al tanto de cuando se terminen las tareas y de los deploys
+[05/09] - En estrategia de gestion de proyecto se agregó el tablero de seguimiento, descripciones de req funcionales y tecnicas, seccion 6 y 7 del documento
+[05/09] - Se iteró Definition of Ready con correcciones del cliente, simplicadas historias de usuario con info de cuales se van a entregar en el sprint
